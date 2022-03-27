@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 652ba4c7-27a6-1eb6-e79b-93e3ccbb39bd
 resourcetype: Document
 title: absolutepitch.pdf
 uid: 55e2a1d8-e5f5-4791-fde4-edf63575524e

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 652ba4c7-27a6-1eb6-e79b-93e3ccbb39bd
 resourcetype: Document
 title: foxp2.pdf
 uid: 894759cb-5200-6c21-a26f-e73383f53b25

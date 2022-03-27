@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 652ba4c7-27a6-1eb6-e79b-93e3ccbb39bd
 resourcetype: Document
 title: audiovisual.pdf
 uid: c15f4238-ee9d-4787-fdbc-70271be4e423

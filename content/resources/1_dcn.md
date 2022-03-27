@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9060a8a-5223-2d0a-2187-c45897bbe924
 resourcetype: Document
 title: 1_dcn.pdf
 uid: 3641c2cc-a622-067d-967b-85f7bc4be679

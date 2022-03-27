@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 652ba4c7-27a6-1eb6-e79b-93e3ccbb39bd
 resourcetype: Document
 title: auditory_mem_ppr.pdf
 uid: 28f8c126-6c10-7577-c0b0-130aee7cdef1

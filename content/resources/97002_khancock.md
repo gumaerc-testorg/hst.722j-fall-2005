@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 5bd89aa9-7fe4-3384-89ba-61f9ecd036a9
 resourcetype: Image
 title: 97002_khancock.gif
 uid: 0e5b7c89-e8d0-4ab6-960a-fece188793ca

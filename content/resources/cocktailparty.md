@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 652ba4c7-27a6-1eb6-e79b-93e3ccbb39bd
 resourcetype: Document
 title: cocktailparty.pdf
 uid: 17732252-063a-cee0-7903-ea7a8f78afd4

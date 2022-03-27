@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9060a8a-5223-2d0a-2187-c45897bbe924
 resourcetype: Document
 title: 7_melcher_handot.pdf
 uid: 45b197f3-6d57-a495-0c3e-be641f481765
