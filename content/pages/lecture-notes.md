@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section lists a few of lecture notes files as per the
+  topics covered in the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -30,7 +32,7 @@ LECTURERS
 2-4
 {{< tdclose >}}
 {{< tdopen >}}
-Dorsal Cochlear Nucleus ([PDF - 1.6 MB]({{< baseurl >}}/resources/1_dcn))
+Dorsal Cochlear Nucleus ({{% resource_link 3641c2cc-a622-067d-967b-85f7bc4be679 "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Hancock
@@ -66,7 +68,7 @@ Adams
 9-11
 {{< tdclose >}}
 {{< tdopen >}}
-Quantitative Methods ([PDF]({{< baseurl >}}/resources/4_quantitative))
+Quantitative Methods ({{% resource_link 3ae39938-3f63-819b-256e-3e6c39322bde "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Delgutte
@@ -90,7 +92,7 @@ Brown
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Neuroimaging (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/7_melcher_handot))
+Neuroimaging ({{% resource_link 45b197f3-6d57-a495-0c3e-be641f481765 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Melcher
@@ -102,7 +104,7 @@ Melcher
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Speech Motor Control ([PDF - 2.6 MB]({{< baseurl >}}/resources/6_mot_con_sp_per))
+Speech Motor Control ({{% resource_link 170ec54f-67d6-50df-07af-c52712cfc75d "PDF - 2.6 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Perkell

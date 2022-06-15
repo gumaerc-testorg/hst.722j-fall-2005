@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Assignment section provides information about the guidelines to topic
+  discussions, topic proposal and sample of student paper work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -76,12 +78,12 @@ Student Topic Proposals
 
 These student papers are included courtesy of the listed authors below. Used with their permission.
 
-Absolute Pitch ([PDF]({{< baseurl >}}/resources/absolutepitch)) (By Jianwen Wendy Gu.)
+Absolute Pitch ({{% resource_link 55e2a1d8-e5f5-4791-fde4-edf63575524e "PDF" %}}) (By Jianwen Wendy Gu.)
 
-Cortical correlates of audio-visual integration ([PDF]({{< baseurl >}}/resources/audiovisual)) (By Erik Larsen.)
+Cortical correlates of audio-visual integration ({{% resource_link c15f4238-ee9d-4787-fdbc-70271be4e423 "PDF" %}}) (By Erik Larsen.)
 
-Neural Centers and Perceptual Characteristics of Auditory Short-term Memory ([PDF]({{< baseurl >}}/resources/auditory_mem_ppr)) (By Anna A. Dreyer.)
+Neural Centers and Perceptual Characteristics of Auditory Short-term Memory ({{% resource_link 28f8c126-6c10-7577-c0b0-130aee7cdef1 "PDF" %}}) (By Anna A. Dreyer.)
 
-Brain Attending a Cocktail Party ([PDF]({{< baseurl >}}/resources/cocktailparty)) (By Adrian KC Lee.)
+Brain Attending a Cocktail Party ({{% resource_link 17732252-063a-cee0-7903-ea7a8f78afd4 "PDF" %}}) (By Adrian KC Lee.)
 
-A Gene for Speech? ([PDF]({{< baseurl >}}/resources/foxp2)) (By Carrie Niziolek.)
+A Gene for Speech? ({{% resource_link 894759cb-5200-6c21-a26f-e73383f53b25 "PDF" %}}) (By Carrie Niziolek.)

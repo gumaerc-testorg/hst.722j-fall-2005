@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section provides information about who should take this
+  course, how does the course work, selected bibliography along with the grading and
+  assignments information.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

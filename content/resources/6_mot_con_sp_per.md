@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/170ec54f67d650df07afc52712cfc75d_6_mot_con_sp_per.pdf
+file: /courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/170ec54f67d650df07afc52712cfc75d_6_mot_con_sp_per.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
