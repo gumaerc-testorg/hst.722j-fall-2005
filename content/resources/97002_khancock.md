@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Related Resources
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 97002_khancock.gif
 uid: 0e5b7c89-e8d0-4ab6-960a-fece188793ca
 ---
 Animation of a DCN fusiform cell based on intracellular labeling and 3D reconstruction. (Animation by Ken Hancock.)
-

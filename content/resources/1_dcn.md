@@ -7,6 +7,7 @@ file: /courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/3641c2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 1_dcn.pdf
 uid: 3641c2cc-a622-067d-967b-85f7bc4be679
 ---
 This resource provides information on the topics of overview of the cochlear nucleus and its subdivisions, anatomy of the DCN, physiology of the DCN, and functional considerations.
-

@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Still of animated 3D reconstruction of a DCN fusiform cell.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-722jf05-th.jpg
 uid: 07184139-f2cd-1022-b64b-e0e037418897
 ---
 New image Upload
-
