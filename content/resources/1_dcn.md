@@ -4,6 +4,7 @@ description: This resource provides information on the topics of overview of the
   nucleus and its subdivisions, anatomy of the DCN, physiology of the DCN, and functional
   considerations.
 file: /courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/3641c2cca622067d967b85f7bc4be679_1_dcn.pdf
+file_size: 1720602
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
