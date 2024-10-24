@@ -2,7 +2,7 @@
 content_type: resource
 description: Animation of a DCN fusiform cell based on intracellular labeling and
   3D reconstruction. (Animation by Ken Hancock.)
-file: /courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/0e5b7c89e8d04ab6960afece188793ca_97002_khancock.gif
+file: /ol-ocw-studio-app/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/0e5b7c89e8d04ab6960afece188793ca_97002_khancock.gif
 file_size: 425884
 file_type: image/gif
 image_metadata:
