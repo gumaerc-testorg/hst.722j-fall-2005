@@ -4,7 +4,7 @@ description: This resource provides information on the topic of long lasting mod
   by stimulus context in primate auditory cortex, synaptic mechanisms of forward suppression
   in rat auditory cortex, stimulus specific adaption, hierarchical organization of
   auditory temporal context, suggested topic papers and references.
-file: /courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/7b27d730ddbb95208f07ac76d746be4e_contextsensitive.pdf
+file: /ol-ocw-studio-app/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/7b27d730ddbb95208f07ac76d746be4e_contextsensitive.pdf
 file_size: 84511
 file_type: application/pdf
 learning_resource_types:
