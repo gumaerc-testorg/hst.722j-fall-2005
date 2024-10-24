@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the topic of AP acquisition, AP
   and genetics, neural correlates of AP, various topic papers, conclusion and references.
-file: /courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/55e2a1d8e5f54791fde4edf63575524e_absolutepitch.pdf
+file: /ol-ocw-studio-app/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/55e2a1d8e5f54791fde4edf63575524e_absolutepitch.pdf
 file_size: 71631
 file_type: application/pdf
 learning_resource_types:
