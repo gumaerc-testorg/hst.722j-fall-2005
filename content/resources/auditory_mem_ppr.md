@@ -6,7 +6,7 @@ description: This resource provides information on the topic of psychophysical s
   cortex, imaging work implicates auditory cortical, frontal, parietal and cerebellar
   areas in STWM tasks, lesion studies indicate debilitation in STWM performance with
   bilateral auditory association cortical lesions, conclusion and suggested papers.
-file: /ol-ocw-studio-app/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/28f8c1266c107577c0b0130aee7cdef1_auditory_mem_ppr.pdf
+file: /courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/28f8c1266c107577c0b0130aee7cdef1_auditory_mem_ppr.pdf
 file_size: 59929
 file_type: application/pdf
 learning_resource_types:
