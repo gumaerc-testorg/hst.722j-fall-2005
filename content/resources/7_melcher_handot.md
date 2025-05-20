@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the topics of binaural difference
   potential, functional magnetic resonance imaging and references.
-file: /ol-ocw-studio-app/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/45b197f36d57a4950c3ebe641f481765_7_melcher_handot.pdf
+file: /courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/45b197f36d57a4950c3ebe641f481765_7_melcher_handot.pdf
 file_size: 765204
 file_type: application/pdf
 learning_resource_types:
