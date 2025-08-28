@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/7d8ce50963e850bf41ece375f5ea9a41_chp_khancock.gif
+file: /ol-ocw-studio-app/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/7d8ce50963e850bf41ece375f5ea9a41_chp_khancock.gif
 file_size: 425884
 file_type: image/gif
 image_metadata:
