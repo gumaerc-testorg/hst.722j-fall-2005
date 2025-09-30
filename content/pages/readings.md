@@ -261,13 +261,13 @@ Furukawa, S., and J. C. Middlebrooks. "Cortical representation of auditory space
 
 _Further Reading_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262681087) Rieke, F., D. Warland, de Ruyter Van Steveninck, and W. Bialek. _Spikes_. MIT Press. 1999. ISBN: 9780262681087. (A remarkably clear introduction to the application of information theory to neuroscience.)
+{{% resource_link "fe9cb5c2-4da2-4900-8baa-c85843ffb9ec" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rieke, F., D. Warland, de Ruyter Van Steveninck, and W. Bialek. _Spikes_. MIT Press. 1999. ISBN: 9780262681087. (A remarkably clear introduction to the application of information theory to neuroscience.)
 
 Middlebrooks, J. C, L. Xu, S. Furukawa, and E. A. Macpherson. "Cortical neurons that localize sounds." _Neuroscientist_ 8 (2002): 73-83. (Gives an overview of Middlebrook's work on cortical coding of sound location. Background for the assigned Furukawa and Middlebrooks paper.)
 
 Borst, A., and F. E. Theunissen. "Information theory and neural coding." _Nat Neurosci_ 2 (1999): 947-57. (A more detailed introduction to information theory than that given by Buracas and Albright.)
 
-Johnson, D. H. "Dialogue concerning neural coding and information theory." August 2003. ([PDF](http://www-ece.rice.edu/~dhj/dialog.pdf)) (Unpublished document.) (Discusses the difficulties of applying Shannon information theory to studies of neural coding.)
+Johnson, D. H. "Dialogue concerning neural coding and information theory." August 2003. ({{% resource_link "351b394c-9a56-4b59-b7f5-17807c41be1e" "PDF" %}}) (Unpublished document.) (Discusses the difficulties of applying Shannon information theory to studies of neural coding.)
 
 Hsu, A., S. M. Woolley, T. E. Fremouw, and F. E. Theunissen. "Modulation power and phase spectrum of natural sounds enhance neural encoding performed by single auditory neurons." _J Neurosci_ 24 (2004): 9201-11. (Application of the information theoretic approach outlined in "Spikes" to the auditory system of the song bird.)
 
